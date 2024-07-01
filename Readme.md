@@ -26,7 +26,7 @@ I'm a passionate Software Engineer with 4 years of experience in the industry. I
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-la ngs/?username=Henil1708&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henil1708&layout=compact&theme=radical)
 ![Henil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Henil1708&theme=radical)
 
 ## 🏆 Achievements
