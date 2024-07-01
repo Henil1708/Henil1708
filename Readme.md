@@ -41,7 +41,7 @@ I'm a passionate Software Engineer with 4 years of experience in the industry. I
 - Twitter: [@henil_mehta](https://twitter.com/Mehta11Henil)
 - Email: [henilmmehta@gmail.com](mailto:henilmmehta@gmail.com)
 
-## 📝 Blog
+## 📝 Recent Learning
 
 I love sharing my knowledge and experience. Check out my latest project on my [REPO LINK](https://github.com/Henil1708/password-generator-app-rn).
 
