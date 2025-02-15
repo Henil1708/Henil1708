@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henil Mehta
 
-I'm a passionate Software Engineer with 4 years of experience in the industry. I have a diverse skill set and have worked with a variety of technologies to create dynamic, high-performance applications. My expertise spans across front-end and back-end development, database management, and desktop application development.
+I'm a passionate Software Engineer with 4+ years of experience in the industry. I have a diverse skill set and have worked with a variety of technologies to create dynamic, high-performance applications. My expertise spans across front-end and back-end development, database management, and desktop application development.
 
 ![Henil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henil1708&show_icons=true&theme=radical)
 
